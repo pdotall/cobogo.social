@@ -6,7 +6,7 @@
 
 cobogo is a dApp to be built on top of the Dev Protocol Ecosystem. Our aim is to expand their unique funding platform to provide new ways to monetize YouTube Creators. Fans will be able to stake DEV Tokens on their favorite YouTuber pool and sustainably fund them. sTokens and all the Perks developed on Dev Protocol will used on Cobogo, this way all the fans that use this method of funding receive benefits not found in any other system.
 
-Even small and niche YouTubers will be able to be properly monetized by their own Community. Through Cobogo community building and monetization is taking to a new level not found in web2.  
+Even small and niche YouTubers will be able to be properly monetized by their own Community. Through Cobogo community building and monetization is taken to a new level not found in web2.  
 
 
 README 日本語<br>
@@ -17,9 +17,15 @@ https://github.com/mzomia00/m-zomia/blob/main/README_JA.md
 
 ![m-zomia_head](https://user-images.githubusercontent.com/87135383/127441601-32075f68-d081-4ceb-9e26-e5aadfe151ae.jpg)
 
-# "Music x Web3.0 x Dev Protocol x Community".
+# YouTube as a Creator Wildcard and Cobogo for Dev Protocol Expansion
 
-There are many ways for fans to support music artists (composers, lyricists, musicians, singers, track makers, sound engineers, performers, etc.), such as listening to music streaming services, watching videos on YouTube, downloading / buying CDs, attending live performances, donating money, crowdfunding, fan clubs, and selling goods.
+
+Creating a video an uploading it on YouTube is really simple and there are infinite Creator niches that can fit their artwork on a video format, be it an explanation, the behind the scenes or the art itself; YouTube can be considered a Creator Wildcard, it is the most versatile way to onboard every kind of Creator on the Dev Protocol ecosystem. 
+
+
+
+
+e many ways for fans to support music artists (composers, lyricists, musicians, singers, track makers, sound engineers, performers, etc.), such as listening to music streaming services, watching videos on YouTube, downloading / buying CDs, attending live performances, donating money, crowdfunding, fan clubs, and selling goods.
 
 However, due to covid-19, music concerts, live performances, and festivals, where people gather, have been devastated, and the artists and music professionals involved in the artists' activities - who used to rely on them as a source of income - are now struggling.
 
