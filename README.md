@@ -1,30 +1,6 @@
-![stakes-social:logo](https://user-images.githubusercontent.com/73097560/126628639-b6756dd8-453e-4ab6-9d72-09ac4e9f16b0.png)
+![cobogo:logo](https://cobogo.social/_next/image?url=%2Flogos%2Fcobogo-logo.svg&w=256&q=75)
 
-Stakes.social is the first official Dapp built on the Dev Protocol, released in June 2020. Stakes.social is a new sponsor platform where both developers and sponsors are rewarded with tokens if they support their favorite projects by staking DEV tokens.
-
-![image](https://user-images.githubusercontent.com/73097560/126630645-948c52b5-0cf2-4743-a78a-484c93d0329f.png)
-
-[Live View](https://stakes.social/)
-
----
-
-## Contributing guidelines
-
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change. Be sure to check the [contributing guidelines](https://raw.githubusercontent.com/dev-protocol/stakes.social/main/.github/CONTRIBUTING.md)
-
-## Installation / Requirements
-
-```bash
-# install npm packages
-$ yarn
-
-# build deps
-$ yarn build
-
-# web run
-$ yarn workspace @dev/web start:dev
-```
-
-## Licence
-
-<a href="https://github.com/dev-protocol/stakes.social/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg" width="13%"></a>
+cobogo is a protocol that has the goal of funding Content Creators sustainably through their own communities. It is a dApp that leverages Web 3.0 to monetize Creators while maximizing their growth and community building abilities. We will leverage this to bring as many creators as possible to our platform and transform it into the first Content Creator DAO.
+It works by allowing Creators to mint their own Social Tokens and Staking Pool, where Patrons can stake on it. After that, both Creators and Patrons get rewards in the form of a yield, in a 50%/50% split.
+All Creators have to do after minting their pool is let their community know about this opportunity, and how it is a win-win situation. They can also offer Perks to those staking from them, which can vary from receiving the Creator’s Social Tokens, getting access to a private discord, private content and even being able to vote for the next videos' type of content. The possibilities are endless.
+We intend to keep growing, introducing more monetization methods and finding new ways to give rewards and benefits for Creators and Patrons. 
